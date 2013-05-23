@@ -1,0 +1,14 @@
+<sudoku>
+  <row>
+    <e>*</e><e>2</e><e>*</e><e>4</e>
+  </row>
+  <row>
+    <e>4</e><e>*</e><e>2</e><e>*</e>
+  </row>
+  <row>
+    <e>*</e><e>*</e><e>*</e><e>2</e>
+  </row>
+  <row>
+    <e>*</e><e>1</e><e>*</e><e>*</e>
+  </row>
+</sudoku>
